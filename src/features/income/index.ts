@@ -1,0 +1,1 @@
+export { IncomeWrapper } from './income'

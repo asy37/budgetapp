@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Maaş",
+    "description": "Aylık çalışma maaşı",
+    "value": "Salary"
+  },
+  {
+    "id": 2,
+    "name": "Serbest Meslek Geliri",
+    "description": "Serbest çalışma ve danışmanlık geliri",
+    "value": "Freelance Income"
+  },
+  {
+    "id": 3,
+    "name": "Yatırım Geliri",
+    "description": "Hisse senedi, bono ve diğer yatırım araçlarından elde edilen gelir",
+    "value": "Investment Income"
+  },
+  {
+    "id": 4,
+    "name": "Kira Geliri",
+    "description": "Kiraladığınız mülklerden elde ettiğiniz gelir",
+    "value": "Rental Income"
+  },
+  {
+    "id": 5,
+    "name": "Bonus",
+    "description": "Yıl sonu bonusu veya başarı bonusu",
+    "value": "Bonus"
+  },
+  {
+    "id": 6,
+    "name": "Faiz Geliri",
+    "description": "Bankalarda birikmiş para üzerinden elde edilen faiz",
+    "value": "Interest Income"
+  },
+  {
+    "id": 7,
+    "name": "Hediye Geliri",
+    "description": "Aile üyelerinden veya arkadaşlardan alınan para hediyesi",
+    "value": "Gift Income"
+  },
+  {
+    "id": 8,
+    "name": "Toptan Satış Geliri",
+    "description": "Toptan satışlardan elde edilen gelir",
+    "value": "Wholesale Income"
+  },
+  {
+    "id": 9,
+    "name": "Prim",
+    "description": "Satış hedeflerini aşarak kazanılan primler",
+    "value": "Commission"
+  },
+  {
+    "id": 10,
+    "name": "Hisse Senedi Geliri",
+    "description": "Hisse senetlerinden elde edilen kar ve temettüler",
+    "value": "Stock Income"
+  },
+  {
+    "id": 11,
+    "name": "Affiliate Geliri",
+    "description": "Bağlantılı pazarlama (affiliate marketing) gelirleri",
+    "value": "Affiliate Income"
+  },
+  {
+    "id": 12,
+    "name": "Emeklilik Geliri",
+    "description": "Emeklilik fonlarından elde edilen gelir",
+    "value": "Pension Income"
+  },
+  {
+    "id": 13,
+    "name": "Telif Hakkı Geliri",
+    "description": "Kitap, müzik veya diğer eserlerin telif haklarından elde edilen gelir",
+    "value": "Royalty Income"
+  },
+  {
+    "id": 14,
+    "name": "Hibe",
+    "description": "Devlet veya özel kurumlar tarafından verilen hibe veya ödüller",
+    "value": "Grant"
+  },
+  {
+    "id": 15,
+    "name": "Kredi Geliri",
+    "description": "Kredi veya borç verme yoluyla elde edilen gelir",
+    "value": "Loan Income"
+  }
+]

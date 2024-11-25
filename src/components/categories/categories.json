@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Giyim",
+    "description": "Kıyafet, ayakkabı, aksesuar gibi harcamalar",
+    "value": "Clothing"
+  },
+  {
+    "id": 2,
+    "name": "Yemek",
+    "description": "Restoran, fast food, market alışverişi gibi harcamalar",
+    "value": "Food"
+  },
+  {
+    "id": 3,
+    "name": "Ulaşım",
+    "description": "Toplu taşıma, taksi, araç yakıtı gibi harcamalar",
+    "value": "Transportation"
+  },
+  {
+    "id": 4,
+    "name": "Eğlence",
+    "description": "Sinema, konser, etkinlikler gibi harcamalar",
+    "value": "Entertainment"
+  },
+  {
+    "id": 5,
+    "name": "Sağlık",
+    "description": "İlaç, doktor muayenesi, spor salonu üyeliği gibi harcamalar",
+    "value": "Health"
+  },
+  {
+    "id": 6,
+    "name": "Kira",
+    "description": "Ev kirası, ofis kirası gibi harcamalar",
+    "value": "Rent"
+  },
+  {
+    "id": 7,
+    "name": "Faturalar",
+    "description": "Elektrik, su, doğalgaz, internet gibi harcamalar",
+    "value": "Bills"
+  },
+  {
+    "id": 8,
+    "name": "Eğitim",
+    "description": "Kurslar, okul masrafları, kitap gibi harcamalar",
+    "value": "Education"
+  },
+  {
+    "id": 9,
+    "name": "Teknoloji",
+    "description": "Telefon, bilgisayar, elektronik cihazlar gibi harcamalar",
+    "value": "Technology"
+  },
+  {
+    "id": 10,
+    "name": "Hediye",
+    "description": "Doğum günü, yıl dönümü gibi özel günler için alınan hediyeler",
+    "value": "Gift"
+  },
+  {
+    "id": 11,
+    "name": "Tatil",
+    "description": "Otel, uçak bileti, tatil aktiviteleri gibi harcamalar",
+    "value": "Vacation"
+  },
+  {
+    "id": 12,
+    "name": "Ev Eşyası",
+    "description": "Mobilya, ev dekorasyonu, küçük ev aletleri gibi harcamalar",
+    "value": "Home Goods"
+  },
+  {
+    "id": 13,
+    "name": "Bakım",
+    "description": "Kuaför, güzellik salonu, kişisel bakım ürünleri gibi harcamalar",
+    "value": "Personal Care"
+  },
+  {
+    "id": 14,
+    "name": "Hayvan Bakımı",
+    "description": "Evcil hayvan mamaları, veteriner harcamaları gibi masraflar",
+    "value": "Pet Care"
+  },
+  {
+    "id": 15,
+    "name": "Bağış",
+    "description": "Hayır kurumlarına yapılan bağışlar",
+    "value": "Donation"
+  }
+]
